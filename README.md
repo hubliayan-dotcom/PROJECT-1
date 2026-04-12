@@ -27,6 +27,10 @@ Unplanned industrial downtime costs the global economy over $50B annually. Tradi
 | API Latency        | <30ms  |
 | System Uptime      | 99.9%  |
 
+## Screenshots
+<img width="1899" height="820" alt="modified project 1 pic 1 ss" src="https://github.com/user-attachments/assets/ef5c63e4-36cf-444e-bf35-a04b238f4f02" />
+
+
 ## 💻 Tech Stack
 - **Frontend**: React 19, Vite, Tailwind CSS, Recharts, Lucide React, Motion.
 - **Backend**: Node.js, Express.js.
