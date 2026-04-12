@@ -1,0 +1,5 @@
+{
+  "name": "Predictive Maintenance AI",
+  "description": "An AI-powered dashboard for IoT device health monitoring and predictive maintenance using NASA C-MAPSS data patterns.",
+  "requestFramePermissions": []
+}
