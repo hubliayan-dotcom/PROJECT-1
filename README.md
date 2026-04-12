@@ -74,8 +74,30 @@ Unplanned industrial downtime costs the global economy over $50B annually. Tradi
 - Building **Full-stack React/Express** applications with Vite middleware.
 - Designing **Information-dense dashboards** using Tailwind CSS.
 
+ ## 📖 Future Improvements
+🔹 Add ML model (LSTM / Regression) for RUL prediction
+🔹 Live IoT sensor integration
+🔹 Alert system (email/SMS notifications)
+🔹 Cloud deployment (AWS / Azure)
+
 ## 📜 License
 This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Ayan Hubli
+-Engineering Student (ENTC)
+-Interested in AI, Data Analytics, and Full-Stack Development
+
+## ⭐ Final Note
+This project demonstrates real-world application of AI in industrial IoT systems, combining:
+-Data analysis
+-Machine intelligence
+-Full-stack engineering
+
+
+
+
+
 
 ---
 *Built as a professional student portfolio project demonstrating end-to-end AI and IoT engineering.*
