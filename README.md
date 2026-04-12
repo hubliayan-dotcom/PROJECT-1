@@ -27,10 +27,16 @@ Unplanned industrial downtime costs the global economy over $50B annually. Tradi
 | API Latency        | <30ms  |
 | System Uptime      | 99.9%  |
 
-## 📷 Screenshots
-<img width="1899" height="820" alt="modified project 1 pic 1 ss" src="https://github.com/user-attachments/assets/ef5c63e4-36cf-444e-bf35-a04b238f4f02" />
-<img width="1906" height="821" alt="modified project 1 pic 2 ss" src="https://github.com/user-attachments/assets/76c3c3bc-f0e0-42ef-911c-230e2c502aad" />
-<img width="1897" height="818" alt="modified project 1 pic 3 ss" src="https://github.com/user-attachments/assets/eb6f1270-8be5-4c4d-a2fc-a55a95a8b4bd" />
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/charts.png" width="400"/>
+  <img src="./screenshots/ai-insights.png" width="400"/>
+</p>
 
 
 
