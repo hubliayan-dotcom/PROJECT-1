@@ -27,10 +27,6 @@ Unplanned industrial downtime costs the global economy over $50B annually. Tradi
 | API Latency        | <30ms  |
 | System Uptime      | 99.9%  |
 
-
-
-
-
 ## 💻 Tech Stack
 - **Frontend**: React 19, Vite, Tailwind CSS, Recharts, Lucide React, Motion.
 - **Backend**: Node.js, Express.js.
@@ -154,6 +150,15 @@ Sensor Data Simulation (NASA C-MAPSS)
 - Full-stack engineering capabilities
 - Ability to design production-ready architectures
 - Practical application of data-driven decision systems
+
+## Challenges Faced:
+- Handling imbalanced cybersecurity dataset
+- Feature scaling impact on Isolation Forest
+- Latency issues in real-time dashboard
+
+## Key Decisions:
+- Why Random Forest over XGBoost?
+- Why Isolation Forest for anomalies?
 
 ## 📜 License
 This project is licensed under the MIT License.
