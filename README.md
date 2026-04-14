@@ -44,6 +44,17 @@ Unplanned industrial downtime costs the global economy over $50B annually. Tradi
 └── README.md             # Project Documentation
 ```
 
+## Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Charts
+![Charts](charts.png)
+
+### AI Insights
+![AI Insights](ai-insights.png)
+
 🌍 Why This Matters
 Predictive Maintenance is a cornerstone of Industry 4.0. This project simulates how modern factories leverage AI to:
 - Reduce unexpected downtime
